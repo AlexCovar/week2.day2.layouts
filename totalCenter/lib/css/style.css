@@ -1,0 +1,19 @@
+body {
+    background: 
+    linear-gradient( rgba(255, 255, 255, 0.45), rgba(255, 255, 255, 0.45)), 
+    url(../../assets/shoes.jpg);
+    margin:0;
+}
+.center_content {
+    align-items:center;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    margin-top:23%;
+}
+img {
+    height:72px;
+}
+h3 {
+    font-size:35px;
+}
